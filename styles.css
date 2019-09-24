@@ -1,0 +1,44 @@
+body {
+    font-family: serif;
+    background-color: beige;
+    color: rgb(18, 43, 88);
+    margin: 40px;
+    border: 30px solid;  
+    padding-top: 50px;
+    padding-right: 90px;
+    padding-bottom: 50px;
+    padding-left: 170px;
+
+}
+h1 {
+    font-size: 90px;
+    
+}
+h2 {
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    letter-spacing: 12px;
+    max-width: 30em;
+    
+    
+}
+h3 {
+    font-size: 55px;
+
+}
+  p {
+    max-width: 45em;
+    text-indent: 30px;
+    margin-bottom: 25px;
+
+    
+}
+
+ul {
+    color: plum; 
+    list-style-type: upper-roman; 
+
+}
+
+a {
